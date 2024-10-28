@@ -1,4 +1,68 @@
-﻿/*
+﻿//#include <iostream>
+//
+//using namespace std;
+//
+//
+//class MyClass
+//{
+//public:
+//	MyClass() // 생성자
+//	{
+//		cout << "MyClass" << endl;
+//		cout << this << endl;
+//	}
+//
+//	MyClass(int a) // 생성자
+//	{
+//		cout << "MyClass(int a)" << endl;
+//		this->my_number_ = a;
+//		cout << this << endl;
+//
+//	}
+//
+//	~MyClass() // 소멸자
+//	{
+//		cout << "~MyClass()" << endl;
+//
+//	}
+//
+//	void Increment(int a)
+//	{
+//		my_number_ += a;
+//
+//	}
+//
+//	void Print()
+//	{
+//		cout << "my_number: " << this->my_number_ << endl;
+//	}
+//
+//
+//private:
+//	int my_number_ = 0;
+//
+//};
+//
+//
+//
+//int main()
+//{
+//	MyClass my_class1;
+//	MyClass my_class2(123);
+//
+//	my_class1.Print();
+//	my_class1.Increment(5);
+//	my_class1.Print();
+//
+//	my_class2.Print();
+//
+//
+//	return 0;
+//}
+
+
+
+/*
     홍정모 연구소 https://honglab.co.kr/
 */
 
